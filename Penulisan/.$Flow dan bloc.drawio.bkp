@@ -1,0 +1,59 @@
+<mxfile host="Electron" modified="2024-07-21T08:50:53.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="NWIVgO8aKZ5Dm-UZmvnd" version="24.5.3" type="device">
+  <diagram name="Page-1" id="R7VzKHSdNlH-gQs3RgOC">
+    <mxGraphModel dx="756" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.47;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-3" target="stFJ1I9RuQEEIAM0pEeC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="154" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-3" value="NODEMCU&lt;div&gt;ESP32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="115" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-5" target="stFJ1I9RuQEEIAM0pEeC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-5" value="Relay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-9" target="stFJ1I9RuQEEIAM0pEeC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-9" value="Motor Servo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-11" value="Ultarsonik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-15" value="Sensor Turbidity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-15" target="stFJ1I9RuQEEIAM0pEeC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-18" value="Sensor pH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-18" target="stFJ1I9RuQEEIAM0pEeC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-23" value="Pompa Aquarium&lt;div&gt;dan Filter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-25" value="Blynk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stFJ1I9RuQEEIAM0pEeC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="stFJ1I9RuQEEIAM0pEeC-25" target="stFJ1I9RuQEEIAM0pEeC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

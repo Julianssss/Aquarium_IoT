@@ -1,0 +1,203 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
+  <diagram name="Halaman-1" id="CArCHthQXgdJU9u5TuaJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ACdmltPTw336xNPnN_Sd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-2" target="ACdmltPTw336xNPnN_Sd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-2" value="Mulai" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-3" target="ACdmltPTw336xNPnN_Sd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-11" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-8">
+          <mxGeometry x="0.0897" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-3" target="ACdmltPTw336xNPnN_Sd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-71" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-14">
+          <mxGeometry x="-0.0734" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-3" value="Wifi&lt;div&gt;Terhubung?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="402.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-5" target="ACdmltPTw336xNPnN_Sd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-5" value="RFID,&lt;div&gt;Ultrasonic&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-7" value="Mengubungkan&lt;div&gt;Wifi&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-7" target="ACdmltPTw336xNPnN_Sd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-13" value="Check&lt;div&gt;RFID Tags&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="425" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-17" target="ACdmltPTw336xNPnN_Sd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="340" />
+              <mxPoint x="380" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-22" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-21">
+          <mxGeometry x="0.0398" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-17" target="ACdmltPTw336xNPnN_Sd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-72" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-26">
+          <mxGeometry x="-0.2919" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-17" value="RFID&lt;div&gt;Mendeteksi?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="245" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-13" target="ACdmltPTw336xNPnN_Sd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-25" target="ACdmltPTw336xNPnN_Sd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-25" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Buzzer nyala dan&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;UID Kirim&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Ke Telegram&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-28" value="Servo bergerak&lt;div&gt;(cw)&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="197.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-30" target="ACdmltPTw336xNPnN_Sd-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-36" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-35">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-30" target="ACdmltPTw336xNPnN_Sd-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="330" />
+              <mxPoint x="570" y="223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-38" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-37">
+          <mxGeometry x="0.063" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-30" value="Switch 1&lt;div&gt;Tertekan?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-28" target="ACdmltPTw336xNPnN_Sd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-34" target="ACdmltPTw336xNPnN_Sd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-34" value="Servo&lt;div&gt;Berhenti&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="420" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-39" target="ACdmltPTw336xNPnN_Sd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-39" value="Tunggu 5&lt;div&gt;Detik&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="422.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-42" target="ACdmltPTw336xNPnN_Sd-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-42" value="Servo Bergerak&lt;div&gt;(CCW)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="560" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-44" value="Sensor&amp;nbsp;&lt;div&gt;Ultrasonic Deteksi?&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="562.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-47" target="ACdmltPTw336xNPnN_Sd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-54" value="TIdak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-53">
+          <mxGeometry x="-0.2589" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-47" target="ACdmltPTw336xNPnN_Sd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-57" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-56">
+          <mxGeometry x="-0.2452" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-47" value="Jarak&amp;nbsp;&lt;div&gt;≤ 5&amp;nbsp;cm?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="660" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-44" target="ACdmltPTw336xNPnN_Sd-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-55" value="Servo Bergerak&lt;div&gt;(CW)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="682.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-58" target="ACdmltPTw336xNPnN_Sd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-64" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-63">
+          <mxGeometry x="-0.0883" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-58" target="ACdmltPTw336xNPnN_Sd-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-70" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="ACdmltPTw336xNPnN_Sd-67">
+          <mxGeometry x="-0.0182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-58" value="Switch 2&lt;div&gt;Tertekan?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="244" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-55" target="ACdmltPTw336xNPnN_Sd-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-66" value="Servo Berhenti" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="572.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-68" value="Selesai" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="105" y="695" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ACdmltPTw336xNPnN_Sd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="ACdmltPTw336xNPnN_Sd-66" target="ACdmltPTw336xNPnN_Sd-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TH-bmVuzENXJ3fO-jtz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1102.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TH-bmVuzENXJ3fO-jtz-4" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="3TH-bmVuzENXJ3fO-jtz-3">
+          <mxGeometry x="0.0897" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
